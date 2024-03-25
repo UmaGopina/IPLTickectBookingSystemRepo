@@ -1,0 +1,9 @@
+matchBooking\Booking.class
+matchBooking\Seat.class
+matchBooking\SeatTypes.class
+matchBooking\User.class
+matchBooking\AdminUser.class
+matchBooking\Client.class
+matchBooking\Match.class
+matchBooking\Team.class
+matchBooking\TickectBookingSystem.class
